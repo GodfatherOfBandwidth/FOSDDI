@@ -4,8 +4,7 @@ separate table for DHCPv6 subnets
 
 how many columns can a table have and still be performant?
 
-	chosing table keys and other such features could become very important if the subnet table
-	becomes large or the server is low on resources.
+>chosing table keys and other such features could become very important if the subnet table becomes large or the server is low on resources.
 
 different ways to store DHCP options,
 	
