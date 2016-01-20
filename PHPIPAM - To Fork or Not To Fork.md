@@ -4,7 +4,7 @@ purpose).  It may be possible to make it so FOSDDI integration is enabled by a
 configuration directive, or a checkbox in the GUI ... but this seems like it would be
 a LOT of work and could add a lot of confusion.
 
-With the development cycle of PHPIPAM being ... shall we say ... not rapid?  Forking the 
+The development cycle of PHPIPAM seems much more concerned with stability so forking the 
 project doesn't actually sound all that bad.  We could gain all the benefits of the excellent
 GUI PHPIPAM has to offer while coding in the necessary bits to make the integration with 
 Kea and BIND work out-of-the-box.  At the same time, we can remove the bits that are 
