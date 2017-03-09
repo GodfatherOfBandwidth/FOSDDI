@@ -1,3 +1,13 @@
+PHPIPAM has been dropped from this project.
+
+After several attempts to contact the project maintainers were un seccessfull and after a code review it was determined that the difficulties arising from using a separatly maintained project would not be the best course of action.
+
+So ... that answers the fork or no fork question ... There is no fork.
+
+===============================
+
+******This section is outdated and will probably be deleted soon******
+
 As I get further into this project it seems that the changes necessary to PHPIPAM will
 render it essentially unusable as only a documentation tool (which has been its primary
 purpose).  It may be possible to make it so FOSDDI integration is enabled by a 
@@ -22,3 +32,5 @@ is necessary it can be done as painlessly as possible.
 
 I will contact the PHPIPAM dev team and ask thier opinion on forking PHPIPAM.  There
 is the possibility that they have better ideas and can point me down a better path.
+
+===============================
